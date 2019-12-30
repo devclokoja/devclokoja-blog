@@ -15,7 +15,7 @@ For documentation and latest updates from Facebook, visit the [Facebook for Deve
 
 ## General Writing Rules
 
-We publish internal contents, event recap articles, and guest posts from our members on our [Blog](#). Before we publish your content, please ensure that you are willing to agree to the following terms.
+We publish internal contents, event recap articles, and guest posts from our members on our [Blog](https://devclokoja.hashnode.dev). Before we publish your content, please ensure that you are willing to agree to the following terms.
 
 - You must abide by our [Code of Conduct](#)
 - Plagiarism is a crime, your content must be original, and all extracts must be attributed accurately

@@ -17,7 +17,6 @@ For documentation and latest updates from Facebook, visit the Facebook for Devel
 We publish internal contents, event recap articles, and guest posts from our members on our [Blog](#). Before we publish your content, please ensure that you are willing to agree to the following terms.
 
 - You must abide by our [Code of Conduct](#)
-- Your submission must be Open Source related
 - Plagiarism is a crime, your content must be original, and all extracts must be attributed accurately
 - Your content should not include promotional materials or links
 - We reserve the right to edit your content to remove typographical errors, grammatical errors, and to improve the title.
@@ -37,12 +36,12 @@ We publish internal contents, event recap articles, and guest posts from our mem
 
 - Write your article on Hashnode like so:
 
-![osca-screen.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1575362652364/m0_7MdoD4.png)
+![devclokoja-screen.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1577700134039/7baGfJ73n.png)
 
 - Scroll to the bottom of the editor and locate the **Post this to a publication?** section
-- Select `blog.oscafrica.org` from the dropdown list like so
+- Select `devclokoja.hashnode.dev` from the dropdown list like so
 
-![osca-screen2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1575362751430/Yl2RIEDIs.png)
+![devclokoja-screen2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1575362751430/Yl2RIEDIs.png)
 
 - Now click the **Publish** button to submit the post for review
 - You will get an edit link after submission on the next page where you can make changes to your submission before final reviews
@@ -58,10 +57,10 @@ We accept guest posts from just any amazing human with excellent technical writi
 
 ### Why Guest Post?
 
-Submitting a guest post helps put your content in front of amazing  and contributors acFacebookers and DevC members across the globe, It is also a great way to build your technical writing portfolio and an opportunity to work with the amazing humans at DevCLokoja.
+Submitting a guest post helps put your content in front of amazing Facebook staffs, contributors and DevC members across the globe, It is also a great way to build your technical writing portfolio and an opportunity to work with the amazing humans at DevCLokoja.
 
 - Your article is published by you on our Blog, we don't take any credits for them.
-- We help you market your article by sharing it across all our social media.
+- We help you market your article by sharing it across all Developer Circles worldwide.
 - Our Technical writing team is top-notch, you will get an opportunity to get your article reviewed by an experienced writer.
 - When you attend any DevC organized event, you will be celebrated with some fantastic event swags.
 

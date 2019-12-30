@@ -31,9 +31,9 @@ We publish internal contents, event recap articles, and guest posts from our mem
   - Head to https://hashnode.com and create an account
   - Head to https://hashnode.com/devblog and create your personal Devblog [If you get stuck, please read the docs or contact Support]
   - Now you should have your blog on `<your username>.hashnode.dev`
-- Contact any member of the Technical Writing team on [Zulip](https://oscafrica.zulipchat.com/) or Bolaji on [Twitter](https://twitter.com/iambolajiayo) to request access to the blog
+- Contact the DevCLokoja Lead Bolaji on [Facebook](https://facebook.com/iambolajiayo) to request access to the blog
 
-> PS: You need to be a chapter lead to request for access
+> PS: You need to be a member to request for access
 
 - Write your article on Hashnode like so:
 
@@ -46,17 +46,18 @@ We publish internal contents, event recap articles, and guest posts from our mem
 
 - Now click the **Publish** button to submit the post for review
 - You will get an edit link after submission on the next page where you can make changes to your submission before final reviews
-- Contact any member of the Technical Writing team again on [Zulip](https://oscafrica.zulipchat.com/) or Bolaji on [Twitter](https://twitter.com/iambolajiayo) to request for a review
+- Contact DevCLokoja Lead Bolaji on [Facebook](https://facebook.com/iambolajiayo) again to request for a review
 - Your submitted article will be reviewed, and some changes will be made with feedbacks related back to you
 - Upon successful reviews, it would be published on the blog.
 
 ## Guide for Technical Writers
 
-If you would like to share your expertise and experience on the OSCA blog, please reach out to Bolaji on [Facbook](https://twitter.com/iambolajiayo) to start a conversation.
+If you would like to share your expertise and experience on the OSCA blog, please reach out to Bolaji on [Facebook](https://facebook.com/iambolajiayo) to start a conversation.
 
 We accept guest posts from just any amazing human with excellent technical writing skills around technical and non-technical contents.
 
 ### Why Guest Post?
+
 Submitting a guest post helps put your content in front of amazing  and contributors acFacebookers and DevC members across the globe, It is also a great way to build your technical writing portfolio and an opportunity to work with the amazing humans at DevCLokoja.
 
 - Your article is published by you on our Blog, we don't take any credits for them.

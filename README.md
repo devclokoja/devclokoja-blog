@@ -1,9 +1,5 @@
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1567400586419/fC9LKdWOM.png)
 
-# OnBoarding Guidelines
-
-> This guide is for new Chapter leads and Technical Writers
-
 ## About US
 
 Developer Circles from Facebook is a program designed to create locally organized communities for developers. These communities are meant to educate and provide a forum for discussion and knowledge sharing around topics that are top-of-mind for developers in a particular market.

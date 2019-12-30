@@ -4,13 +4,14 @@
 
 Developer Circles from Facebook is a program designed to create locally organized communities for developers. These communities are meant to educate and provide a forum for discussion and knowledge sharing around topics that are top-of-mind for developers in a particular market.
 
-**Why join a circle?**
+**Why join a circle?** <br>
+
 Whatever you build, Developer Circles connects you to collaborate, learn, and code with other local developers.
-You get to attend local meetups, collaborate in Facebook Groups and learn about the latest Facebook technologies. 
+You get to attend local meetups, collaborate in Facebook Groups, and learn about the latest Facebook technologies. 
 
-Technologies discussed here include all the products listed on this page: https://developers.facebook.com/products 
+Technologies discussed here include all the products listed on [this page](https://developers.facebook.com/products)
 
-For documentation and latest updates from Facebook, visit the Facebook for Developers site: https://developers.facebook.com/
+For documentation and latest updates from Facebook, visit the [Facebook for Developers site](https://developers.facebook.com)
 
 ## General Writing Rules
 
@@ -21,7 +22,7 @@ We publish internal contents, event recap articles, and guest posts from our mem
 - Your content should not include promotional materials or links
 - We reserve the right to edit your content to remove typographical errors, grammatical errors, and to improve the title.
 - Your content will be shared on all our social media
-- Not all submitted content will be published, we will provide feedback(s) where necessary
+- Not all submitted content will be published, and we will provide feedback(s) where necessary
 
 
 ## Guide
@@ -46,25 +47,25 @@ We publish internal contents, event recap articles, and guest posts from our mem
 - Now click the **Publish** button to submit the post for review
 - You will get an edit link after submission on the next page where you can make changes to your submission before final reviews
 - Contact DevCLokoja Lead Bolaji on [Facebook](https://facebook.com/iambolajiayo) again to request for a review
-- Your submitted article will be reviewed, and some changes will be made with feedbacks related back to you
+- Your submitted article will be reviewed, and some changes will be made with feedbacks related to you
 - Upon successful reviews, it would be published on the blog.
 
 ## Guide for Technical Writers
 
 If you would like to share your expertise and experience on the OSCA blog, please reach out to Bolaji on [Facebook](https://facebook.com/iambolajiayo) to start a conversation.
 
-We accept guest posts from just any amazing human with excellent technical writing skills around technical and non-technical contents.
+We accept guest posts from just any amazing human with excellent technical writing skills around technical and non-technical content.
 
 ### Why Guest Post?
 
-Submitting a guest post helps put your content in front of amazing Facebook staffs, contributors and DevC members across the globe, It is also a great way to build your technical writing portfolio and an opportunity to work with the amazing humans at DevCLokoja.
+Submitting a guest post helps put your content in front of amazing Facebook staff, contributors, and DevC members across the globe. It is also a great way to build your technical writing portfolio and an opportunity to work with the amazing humans at DevCLokoja.
 
-- Your article is published by you on our Blog, we don't take any credits for them.
+- You publish your article on our Blog, and we don't take any credits for them.
 - We help you market your article by sharing it across all Developer Circles worldwide.
-- Our Technical writing team is top-notch, you will get an opportunity to get your article reviewed by an experienced writer.
+- Our Technical writing team is top-notch; you will get an opportunity to get your article reviewed by an experienced writer.
 - When you attend any DevC organized event, you will be celebrated with some fantastic event swags.
 
-Convinced now? Please reach out, and let's get started on that brilliant idea 🙂.
+Are you convinced now? Please reach out, and let's get started on that brilliant idea 🙂.
 
 ## Contribute
 

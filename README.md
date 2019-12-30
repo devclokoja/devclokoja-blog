@@ -41,7 +41,7 @@ We publish internal contents, event recap articles, and guest posts from our mem
 - Scroll to the bottom of the editor and locate the **Post this to a publication?** section
 - Select `devclokoja.hashnode.dev` from the dropdown list like so
 
-![devclokoja-screen2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1575362751430/Yl2RIEDIs.png)
+![devclokoja-screen2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1577723374528/nnFpB6Z2B.png)
 
 - Now click the **Publish** button to submit the post for review
 - You will get an edit link after submission on the next page where you can make changes to your submission before final reviews

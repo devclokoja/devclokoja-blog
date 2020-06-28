@@ -4,7 +4,7 @@
 
 Developer Circles from Facebook is a program designed to create locally organized communities for developers. These communities are meant to educate and provide a forum for discussion and knowledge sharing around topics that are top-of-mind for developers in a particular market.
 
-**Why join a circle?** <br>
+**Why join a circle?**
 
 Whatever you build, Developer Circles connects you to collaborate, learn, and code with other local developers.
 You get to attend local meetups, collaborate in Facebook Groups, and learn about the latest Facebook technologies. 
@@ -17,7 +17,7 @@ For documentation and latest updates from Facebook, visit the [Facebook for Deve
 
 We publish internal contents, event recap articles, and guest posts from our members on our [Blog](https://devclokoja.hashnode.dev). Before we publish your content, please ensure that you are willing to agree to the following terms.
 
-- You must abide by our [Code of Conduct](https://facebook.com/groups/devclokoja/about)
+- You must abide by our [Code of Conduct](https://facebook.com/groups/devclokoja/about/)
 - Plagiarism is a crime, your content must be original, and all extracts must be attributed accurately
 - Your content should not include promotional materials or links
 - We reserve the right to edit your content to remove typographical errors, grammatical errors, and to improve the title.
@@ -27,9 +27,9 @@ We publish internal contents, event recap articles, and guest posts from our mem
 
 ## Guide
   
-- Our blog is powered by [Devblog](https://hashnode.com/devblog) Team Publication, and it is expected that you create a Devblog account to have your articles published with us.
+- Our blog is powered by [Hashnode](https://hashnode.com) Team Publication, and it is expected that you create a personal blog on Hashnode to have your articles published with us.
   - Head to https://hashnode.com and create an account
-  - Head to https://hashnode.com/devblog and create your personal Devblog [If you get stuck, please read the docs or contact Support]
+  - Create your personal blog during the onboarding process [If you get stuck, please read the docs or contact Support]
   - Now you should have your blog on `<your username>.hashnode.dev`
 - Contact the DevCLokoja Lead Bolaji on [Facebook](https://facebook.com/iambolajiayo) to request access to the blog
 
@@ -37,12 +37,12 @@ We publish internal contents, event recap articles, and guest posts from our mem
 
 - Write your article on Hashnode like so:
 
-![devclokoja-screen.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1577700134039/7baGfJ73n.png)
+![hashnode editor.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1593350578930/_5FYw7dnl.png)
 
-- Scroll to the bottom of the editor and locate the **Post this to a publication?** section
+- Check the right bar of the editor and locate the **Post to blog** section which allows you to publish the article on a blog instead of Hashnode
 - Select `devclokoja.hashnode.dev` from the dropdown list like so
 
-![devclokoja-screen2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1577723374528/nnFpB6Z2B.png)
+![hashnode editor.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1593350754484/hEhoeU-kT.png
 
 - Now click the **Publish** button to submit the post for review
 - You will get an edit link after submission on the next page where you can make changes to your submission before final reviews

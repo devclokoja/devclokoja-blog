@@ -27,10 +27,11 @@ We publish internal contents, event recap articles, and guest posts from our mem
 
 ## Guide
   
-- Our blog is powered by [Hashnode](https://hashnode.com) Team Publication, and it is expected that you create a personal blog on Hashnode to have your articles published with us.
-  - Head to https://hashnode.com and create an account
-  - Create your personal blog during the onboarding process [If you get stuck, please read the docs or contact Support]
-  - Now you should have your blog on `<your username>.hashnode.dev`
+Our blog is powered by [Hashnode](https://hashnode.com) Team Publication, and it is expected that you create a personal blog on Hashnode to have your articles published with us.
+
+- Head to https://hashnode.com and create an account
+- Create your personal blog during the onboarding process [If you get stuck, please read the docs or contact any DevCLokoja moderator]
+- Now you should have your blog on `<your username>.hashnode.dev`
 - Contact the DevCLokoja Lead Bolaji on [Facebook](https://facebook.com/iambolajiayo) to request access to the blog
 
 > PS: You need to be a member to request for access
@@ -42,17 +43,17 @@ We publish internal contents, event recap articles, and guest posts from our mem
 - Check the right bar of the editor and locate the **Post to blog** section which allows you to publish the article on a blog instead of Hashnode
 - Select `devclokoja.hashnode.dev` from the dropdown list like so
 
-![hashnode editor.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1593350754484/hEhoeU-kT.png
+![hashnode editor.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1593350754484/hEhoeU-kT.png)
 
 - Now click the **Publish** button to submit the post for review
 - You will get an edit link after submission on the next page where you can make changes to your submission before final reviews
 - Contact DevCLokoja Lead Bolaji on [Facebook](https://facebook.com/iambolajiayo) again to request for a review
 - Your submitted article will be reviewed, and some changes will be made with feedbacks related to you
-- Upon successful reviews, it would be published on the blog.
+- Upon successful review, it would be published on the blog.
 
 ## Guide for Technical Writers
 
-If you would like to share your expertise and experience on the OSCA blog, please reach out to Bolaji on [Facebook](https://facebook.com/iambolajiayo) to start a conversation.
+If you would like to share your expertise and experience on DevCLokoja blog, please reach out to Bolaji on [Facebook](https://facebook.com/iambolajiayo) to start a conversation.
 
 We accept guest posts from just any amazing human with excellent technical writing skills around technical and non-technical content.
 

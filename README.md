@@ -1,4 +1,4 @@
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1567400586419/fC9LKdWOM.png)
+![DevCLokoja Header.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595487648124/6FL6vSjjX.png)
 
 ## About US
 
